@@ -1,0 +1,63 @@
+.homapage{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.search--bar{
+    height: 12vh;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 10px ;
+    background-color: var(--color--white-1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.search--salary{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.select--picker {
+    border: none;
+    outline: none;
+    padding: 5px 10px ;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    font-size: var(--font--size--4);
+}
+
+label{
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+.icon{
+    font-size: 25px;
+}
+
+.btn--search{
+    background-color: var(--color--blue--1);
+    font-weight: bold;
+    font-size: calc(var(--font--size--4) - 4px);
+    color: var(--color--white--1);
+}
+
+.list--job{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 24px;
+    margin: 12px;
+}
+

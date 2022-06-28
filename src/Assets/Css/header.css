@@ -1,0 +1,71 @@
+.header{
+    display: flex;
+    align-items: center;
+    height: 8vh;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: var(--color--bg--1);
+}
+
+.logo p{
+    font-size: var(--font--size--title);
+    font-weight: bold;
+    word-spacing: 5px;
+    color: var(--color--black--2);
+}
+
+.logo p span{
+    font-size: var(--font--size--1 );
+    color: var(--color--white--2);
+}
+
+.nav{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    font-size: var(--font--size--content);
+}
+
+.nav .nav--link{
+    color: var(--color--black--2);
+    font-size: var(--font--size--content);
+    text-transform: capitalize;
+}
+
+.nav .nav--link:hover{
+    color: var(--color--white--2);
+}
+
+.account{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.btn--login{
+    background-color: var(--color--btn);
+}
+
+.btn--login:hover{
+    color: var(--color--black--1);
+    background-color: var(--color--white--2);
+}
+
+.btn--signup{
+    background-color: var(--color--btn);
+}
+
+.btn--signup:hover{
+    color: var(--color--black--1);
+    background-color: var(--color--white--2);
+}
+
+.show {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}

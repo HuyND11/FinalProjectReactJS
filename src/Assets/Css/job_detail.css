@@ -1,0 +1,139 @@
+.container {
+    width: 65rem;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    padding: 12px;
+    justify-content: center;
+}
+
+.detail--job{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+}
+
+.detai--job--info{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    
+}
+
+.detai--job--info div{
+    padding: 10px 0;
+    line-height: 1.4;
+    align-items: center;
+}
+
+.detai--job--name{
+    font-size: var(--font--size--3);
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.detai--job--salary{
+    font-size: var(--font--size--4);
+}
+
+.detai--job--salary span{
+    font-weight: bold;
+}
+
+.detai--job--company{
+    font-size: var(--font--size--4);
+}
+
+.detai--job--company a{
+    color: var(--color--black--1);
+    font-weight: 900;
+}
+
+.detai--job--company a:hover{
+    color: var(--color--blue--1);
+    font-weight: 900;
+}
+
+.detai--job--company--address{
+    font-size: var(--font--size--4);
+}
+
+.detai--job--info img {
+    width: 10rem;
+    height: 10rem;
+    object-fit: contain;
+    color: transparent;
+}
+
+.detail--job--description--list{
+    width: 100%;
+    height: auto;
+}
+
+.detail--job--description--list--title{
+    font-size: var(--font--size--2);
+    text-align: center;
+    font-weight: bolder;
+}
+
+.detail--job--description{
+    width: 100%;
+    height: auto;
+    margin: 6px 0;
+}
+
+.detail--job--description--title{
+    font-size: var(--font--size--3);
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.detail--job--description--item{
+    font-size: var(--font--size--4);
+    line-height: 1.1;
+    padding: 2px 10px;
+}
+
+.detail--job > div:last-child{
+    display: flex;
+    justify-content: center;
+}
+
+.dot{
+    height: 6px;
+    width: 6px;
+    border: 0.2px solid var(--color--black--2);
+    background-color: var(--color--black--2);
+    border-radius: 100%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+
+/* công việc liên quan */
+.similar--job {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    height: auto;
+    width: 35%;
+    border: 2px solid var(--color--black--2);
+    border-radius: 10px;
+}
+
+.similar--job--title {
+    font-size: var(--font--size--3);
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.similar--job--list{
+    display: flex;
+    flex-direction: column;
+}
+
+.similar--job--list > div{
+    margin: 12px 0;
+}

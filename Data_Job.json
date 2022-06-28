@@ -1,0 +1,277 @@
+{
+  "job": [
+    {
+      "id": 1,
+      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "companyId": 1,
+      "salary": 150000,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Kinh nghiem 100 nam",
+        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+      ],
+      "description": [
+        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
+        "Tạo Website sử dụng Shopify",
+        "Responsive website.",
+        "Làm việc theo mô hình Lab."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "companyId": 4,
+      "salary": 300000,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Kinh nghiem 100 nam",
+        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+      ],
+      "description": [
+        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
+        "Tạo Website sử dụng Shopify",
+        "Responsive website.",
+        "Làm việc theo mô hình Lab."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "companyId": 2,
+      "salary": 400000,
+      "place": "Ho Chi Minh",
+      "type": "full time",
+      "required": [
+        "Kinh nghiem 100 nam",
+        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+      ],
+      "description": [
+        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
+        "Tạo Website sử dụng Shopify",
+        "Responsive website.",
+        "Làm việc theo mô hình Lab."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "companyId": 5,
+      "salary": 100000,
+      "place": "Ha Noi",
+      "type": "full time",
+      "required": [
+        "Kinh nghiem 100 nam",
+        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+      ],
+      "description": [
+        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
+        "Tạo Website sử dụng Shopify",
+        "Responsive website.",
+        "Làm việc theo mô hình Lab."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "companyId": 5,
+      "salary": 100000,
+      "place": "Ha Noi",
+      "type": "full time",
+      "required": [
+        "Kinh nghiem 100 nam",
+        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+      ],
+      "description": [
+        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
+        "Tạo Website sử dụng Shopify",
+        "Responsive website.",
+        "Làm việc theo mô hình Lab."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "companyId": 5,
+      "salary": 100000,
+      "place": "Ha Noi",
+      "type": "part time",
+      "required": [
+        "Kinh nghiem 100 nam",
+        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+      ],
+      "description": [
+        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
+        "Tạo Website sử dụng Shopify",
+        "Responsive website.",
+        "Làm việc theo mô hình Lab."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "companyId": 3,
+      "salary": 100000,
+      "place": "Ha Noi",
+      "type": "part time",
+      "required": [
+        "Kinh nghiem 100 nam",
+        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+      ],
+      "description": [
+        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
+        "Tạo Website sử dụng Shopify",
+        "Responsive website.",
+        "Làm việc theo mô hình Lab."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "companyId": 2,
+      "salary": 400000,
+      "place": "Ha Noi",
+      "type": "part time",
+      "required": [
+        "Kinh nghiem 100 nam",
+        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify..",
+        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+      ],
+      "description": [
+        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
+        "Tạo Website sử dụng Shopify",
+        "Responsive website.",
+        "Làm việc theo mô hình Lab."
+      ]
+    }
+  ],
+  "company": [
+    {
+      "id": 1,
+      "name": "KMS SoftWare",
+      "address": "101B Le Huu Trac",
+      "phone": "123456789",
+      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
+      "email": "KMS@gamil.com",
+      "avatar": "KMS.png"
+    },
+    {
+      "id": 2,
+      "name": "SeaDev",
+      "address": "101B Le Huu Trac",
+      "phone": "123456789",
+      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
+      "email": "SeaDev@gamil.com",
+      "avatar": "Sea_Dev.png"
+    },
+    {
+      "id": 3,
+      "name": "RiKai",
+      "address": "101B Le Huu Trac",
+      "phone": "123456789",
+      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
+      "email": "RiKai@gamil.com",
+      "avatar": "Rikai.png"
+    },
+    {
+      "id": 4,
+      "name": "ENOUVO",
+      "address": "101B Le Huu Trac",
+      "phone": "123456789",
+      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
+      "email": "ENOUVO@gamil.com",
+      "avatar": "Enouvo.png"
+    },
+    {
+      "id": 5,
+      "name": "PNV",
+      "address": "99 To Hien Thanh ",
+      "phone": "123456789",
+      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
+      "email": "PNV@gamil.com",
+      "avatar": "PNV.png"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyen Duc Huy",
+      "email": "huynguyen11521@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name ": "Nguyen Thao Nguyen",
+      "email": "nguyen123@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "name ": "",
+      "email": "",
+      "password": ""
+    }
+  ],
+  "apply": [
+    {
+      "name": "Nguyen Duc Huy",
+      "email": "huynguyen11521@gmail.com",
+      "address": "ádas",
+      "idJob": 2,
+      "userId": 1,
+      "phone": "adasdasdasdasdasdasdasdasdas",
+      "id": 9
+    },
+    {
+      "name": "Nguyen Duc Huy",
+      "email": "huynguyen11521@gmail.com",
+      "address": "ádasads",
+      "idJob": 3,
+      "userId": 1,
+      "phone": "ádasadsads",
+      "id": 10
+    },
+    {
+      "name": "Nguyen Duc Huy",
+      "email": "huynguyen11521@gmail.com",
+      "address": "ád",
+      "idJob": 1,
+      "userId": 1,
+      "phone": "ád",
+      "id": 11
+    },
+    {
+      "name": "Nguyen Duc Huy",
+      "email": "huynguyen11521@gmail.com",
+      "address": "asd",
+      "idJob": 6,
+      "userId": 1,
+      "phone": "asdasd",
+      "id": 12
+    },
+    {
+      "name": "Nguyen Duc Huy",
+      "email": "huynguyen11521@gmail.com",
+      "address": "asdas",
+      "idJob": 8,
+      "userId": 1,
+      "phone": "asdasd",
+      "id": 13
+    },
+    {
+      "name": "Nguyen Duc Huy",
+      "email": "huynguyen11521@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Nguyen Duc Huy",
+      "email": "huynguyen11521@gmail.com",
+      "address": "aa",
+      "idJob": 2,
+      "userId": 1,
+      "phone": "sss",
+      "id": 15
+    }
+  ]
+}
