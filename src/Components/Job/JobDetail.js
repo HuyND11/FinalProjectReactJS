@@ -88,6 +88,8 @@ const JobDetail = () => {
     useEffect(() => {
         if((listApply.filter(ele => ele.userId === ~~sessionStorage.getItem("userId") && ele.idJob === ~~jobInfo.id).length) !== 0){
             setCheckApply(true);
+        }else{
+            setCheckApply(false);
         }// eslint-disable-next-line
     },[(listApply.filter(ele => ele.userId === ~~sessionStorage.getItem("userId") && ele.idJob === ~~jobInfo.id).length)])
 

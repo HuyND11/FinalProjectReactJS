@@ -29,13 +29,12 @@ const ApplyForm = () => {
                 icon: "success",
             }).then( res => {
                 if(res.isConfirmed){
-                    navigate("/")
+                    navigate('/')
                 }
             }
             )
         })
     }
-    console.log(applyInfo);
 
     useEffect(() => {
         axios.get(`http://localhost:3000/users/${userId}`).then(res => {
@@ -53,9 +52,9 @@ const ApplyForm = () => {
             <div className = "form">
                 <form onSubmit={onSubmitHandler} className = "login-form">
                     <input type="text" placeholder="Name" name = "name"
-                    value={!!applyInfo.name ? applyInfo.name : ""} />
+                    value={!!applyInfo.name ? applyInfo.name : ""} disabled/>
                     <input type="email" placeholder="Email"  name = "email"
-                    value={!!applyInfo.email ? applyInfo.email : ""} />
+                    value={!!applyInfo.email ? applyInfo.email : ""} disabled/>
                     <input type="text" placeholder="Address" name="address"
                     onChange={onChangeHandler}/>                    
                     <input type="text" placeholder="Phone" name="phone"

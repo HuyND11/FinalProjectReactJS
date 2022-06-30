@@ -32,7 +32,7 @@ const LogIn = () => {
                     text: "I hope you will have a good time !! Thank you",
                     icon: "success",
                 }).then(res => {
-                    navigate( res.isConfirmed ? "/" : "")
+                    navigate( res.isConfirmed ? -1 : "")
                 })
                 
             }
