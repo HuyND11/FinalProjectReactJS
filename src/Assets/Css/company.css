@@ -34,7 +34,7 @@
 }
 
 .company--info{
-    padding: 0 12px 12px 12px;
+    padding: 6px 12px 12px 12px;
 }
 
 .company--name{
@@ -58,6 +58,7 @@
     font-size: var(--font--size--4);
     color: var(--color--black--2);
     padding: 3px;
+    overflow: hidden;
     text-transform: capitalize;
     text-overflow: ellipsis;
     display: -webkit-box;

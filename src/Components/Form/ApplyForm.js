@@ -30,6 +30,8 @@ const ApplyForm = () => {
             }).then( res => {
                 if(res.isConfirmed){
                     navigate('/')
+                }else{
+                    navigate()
                 }
             }
             )

@@ -2,195 +2,726 @@
   "job": [
     {
       "id": 1,
-      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "name": "DEVELOPER IOS [Remote]",
       "companyId": 1,
-      "salary": 150000,
+      "salary": 20000,
       "place": "Da Nang",
       "type": "full time",
       "required": [
-        "Kinh nghiem 100 nam",
-        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+        "Cần có kinh nghiệm về Swift. Trải nghiệm React Native là một điểm cộng lớn.",
+        "Kinh nghiệm chuyên nghiệp về phát triển iOS . ",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng di động.",
+        "Thích làm việc trên các giải pháp và hệ thống đầy thách thức."
       ],
       "description": [
-        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
-        "Tạo Website sử dụng Shopify",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Quyết định công nghệ nào sẽ được sử dụng và xác định kiến trúc tổng thể.",
         "Responsive website.",
-        "Làm việc theo mô hình Lab."
+        "Bạn sẽ là một thành viên tích cực hoặc lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án."
       ]
     },
     {
       "id": 2,
-      "name": "Nhân Viên Kinh Doanh Bán Hàng",
-      "companyId": 4,
-      "salary": 300000,
+      "name": "DEVELOPER Android [Remote]",
+      "companyId": 1,
+      "salary": 500000,
       "place": "Da Nang",
       "type": "full time",
       "required": [
-        "Kinh nghiem 100 nam",
-        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+        "Kinh nghiệm ở Kotlin là điều bắt buộc. Kinh nghiệm trong Flutter là một điểm cộng lớn.  ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng di động.",
+        "Tự tin giao tiếp tiếng Anh.",
+        "Làm việc từ bất kỳ đâu (chênh lệch trong vòng 2 giờ so với GMT + 7) hoặc kết hợp tại một trong các văn phòng của chúng tôi (Đà Nẵng và HCM)."
       ],
       "description": [
-        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
-        "Tạo Website sử dụng Shopify",
-        "Responsive website.",
-        "Làm việc theo mô hình Lab."
+        "Bạn sẽ là một thành viên tích cực hoặc lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Thực hiện đánh giá mã với các thành viên trong nhóm của bạn.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Phối hợp với các thành viên khác trong nhóm để xác định các quy trình và sáng kiến ​​nội bộ nhằm giúp công ty hoàn thành sứ mệnh của mình. đã được viết bởi cả nhóm.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi."
       ]
     },
     {
       "id": 3,
-      "name": "Nhân Viên Kinh Doanh Bán Hàng",
-      "companyId": 2,
-      "salary": 400000,
-      "place": "Ho Chi Minh",
+      "name": "DEVELOP WEB [Remote]",
+      "companyId": 1,
+      "salary": 500000,
+      "place": "Da Nang",
       "type": "full time",
       "required": [
-        "Kinh nghiem 100 nam",
-        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+        "Kinh nghiệm phát triển web chuyên nghiệp ",
+        "Có kinh nghiệm về  Ruby, JavaScript, Elixir hoặc Go là lý tưởng (ít nhất một trong số chúng) . Nếu bạn chưa có kinh nghiệm về các ngăn xếp này, bạn phải cởi mở để học hỏi và làm việc với chúng. Nếu bạn đã có kinh nghiệm nâng cao về PHP hoặc Python và muốn nâng cấp trò chơi của mình bằng cách học một hoặc hai ngôn ngữ khác, thì đây là nơi phù hợp cho bạn.",
+        "Thoải mái làm việc cả trên giao diện người dùng và phụ trợ.",
+        "Có ít nhất kinh nghiệm cơ bản với khung JavaScript hiện đại như ReactJS / Redux, VueJS hoặc AngularJS.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
       ],
       "description": [
-        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
-        "Tạo Website sử dụng Shopify",
-        "Responsive website.",
-        "Làm việc theo mô hình Lab."
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Quyết định công nghệ nào sẽ được sử dụng cho front-end, back-end và xác định kiến ​​trúc tổng thể.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
       ]
     },
     {
       "id": 4,
-      "name": "Nhân Viên Kinh Doanh Bán Hàng",
-      "companyId": 5,
-      "salary": 100000,
-      "place": "Ha Noi",
+      "name": "Giám đốc dự án kỹ thuật",
+      "companyId": 1,
+      "salary": 300000,
+      "place": "Ho Chi Minh",
       "type": "full time",
       "required": [
-        "Kinh nghiem 100 nam",
-        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+        "Có kinh nghiệm về  Ruby, JavaScript, Elixir hoặc Go là lý tưởng (ít nhất một trong số chúng).",
+        " Nếu bạn chưa có kinh nghiệm về các ngăn xếp này, bạn phải cởi mở để học hỏi và làm việc với chúng. Nếu bạn đã có kinh nghiệm nâng cao về PHP hoặc Python và muốn nâng cấp trò chơi của mình bằng cách học một hoặc hai ngôn ngữ khác, thì đây là nơi phù hợp cho bạn.",
+        "Thoải mái làm việc cả trên giao diện người dùng và phụ trợ.",
+        "Có ít nhất kinh nghiệm cơ bản với khung JavaScript hiện đại như ReactJS / Redux, VueJS hoặc AngularJS.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
       ],
       "description": [
-        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
-        "Tạo Website sử dụng Shopify",
-        "Responsive website.",
-        "Làm việc theo mô hình Lab."
+        "Đây là một công việc Từ xa hoặc Kết hợp. Điều này có nghĩa là bạn có thể làm việc từ xa từ bất kỳ đâu trong vòng 2 giờ khác với GMT + 7, hoặc chuyển đến văn phòng của chúng tôi tại Hồ Chí Minh / Đà Nẵng.",
+        "Giao tiếp với các bên liên quan để chia sẻ thông tin chính và hiểu biết sâu sắc về phát triển sản phẩm.",
+        "Khám phá các dự án mới và chia nhỏ chúng thành các tính năng cấp cao; xác định tiến trình thực hiện.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Kiểm tra với nhóm Sản phẩm để đảm bảo rằng không có vấn đề, tắc nghẽn hoặc tắc nghẽn mới nào.",
+        "Giám sát tiến độ các dự án của bạn, đánh giá hiệu suất của nhóm, lập kế hoạch và dự báo năng lực của nhóm.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
       ]
     },
     {
       "id": 5,
-      "name": "Nhân Viên Kinh Doanh Bán Hàng",
-      "companyId": 5,
-      "salary": 100000,
-      "place": "Ha Noi",
+      "name": "QC Engineer (Manual)",
+      "companyId": 2,
+      "salary": 200000,
+      "place": "Da Nang",
       "type": "full time",
       "required": [
-        "Kinh nghiem 100 nam",
-        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+        "Ít nhất 3 năm trở lên trong vai trò Kiểm tra thủ công",
+        "Nền tảng kỹ thuật vững vàng, hiểu biết về công nghệ web cũng như ứng dụng di động",
+        "Có kinh nghiệm kiểm tra E2E, Tích hợp, Kiểm tra đơn vị.",
+        "Kỹ năng giao tiếp tiếng Anh xuất sắc & khả năng ghi lại các vấn đề một cách rõ ràng & tái hiện trong các công cụ quản lý dự án",
+        "Khả năng phân tích các vấn đề một cách chi tiết, giúp các kỹ sư xác định nguyên nhân gốc rễ để giải quyết vấn đề một cách nhanh chóng.",
+        "Có kinh nghiệm kiểm tra API: sử dụng Người đưa thư hoặc Người mất ngủ là một điểm cộng lớn"
       ],
       "description": [
-        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
-        "Tạo Website sử dụng Shopify",
-        "Responsive website.",
-        "Làm việc theo mô hình Lab."
+        "Hiểu các yêu cầu kinh doanh và tiêu chí chấp nhận để thực hiện các bài kiểm tra thủ công nhằm xác minh chất lượng và tính hoàn thiện của các tính năng đang được phân phối.",
+        "Giao tiếp hiệu quả với các nhà phát triển & quản lý dự án về các vấn đề chất lượng.",
+        "Khi các vấn đề về chất lượng được phát hiện, hãy ghi lại những vấn đề này một cách rõ ràng trong Jira để tất cả các bên liên quan đều có thể nhìn thấy được.",
+        "Làm việc với các kỹ sư & quản lý dự án để xác định tiêu chí chấp nhận cho các tính năng mới và cải tiến sản phẩm."
       ]
     },
     {
       "id": 6,
-      "name": "Nhân Viên Kinh Doanh Bán Hàng",
-      "companyId": 5,
-      "salary": 100000,
-      "place": "Ha Noi",
-      "type": "part time",
+      "name": "Business Analyst",
+      "companyId": 3,
+      "salary": 40000,
+      "place": "Ho Chi Minh",
+      "type": "full time",
       "required": [
-        "Kinh nghiem 100 nam",
-        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+        "Ít nhất 3 năm trở lên trong vai trò Kiểm tra thủ công",
+        "Nền tảng kỹ thuật vững vàng, hiểu biết về công nghệ web cũng như ứng dụng di động",
+        "Có kinh nghiệm kiểm tra E2E, Tích hợp, Kiểm tra đơn vị.",
+        "Kỹ năng giao tiếp tiếng Anh xuất sắc & khả năng ghi lại các vấn đề một cách rõ ràng & tái hiện trong các công cụ quản lý dự án",
+        "Khả năng phân tích các vấn đề một cách chi tiết, giúp các kỹ sư xác định nguyên nhân gốc rễ để giải quyết vấn đề một cách nhanh chóng.",
+        "Có kinh nghiệm kiểm tra API: sử dụng Người đưa thư hoặc Người mất ngủ là một điểm cộng lớn"
       ],
       "description": [
-        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
-        "Tạo Website sử dụng Shopify",
-        "Responsive website.",
-        "Làm việc theo mô hình Lab."
+        "Hiểu các yêu cầu kinh doanh và tiêu chí chấp nhận để thực hiện các bài kiểm tra thủ công nhằm xác minh chất lượng và tính hoàn thiện của các tính năng đang được phân phối.",
+        "Giao tiếp hiệu quả với các nhà phát triển & quản lý dự án về các vấn đề chất lượng.",
+        "Khi các vấn đề về chất lượng được phát hiện, hãy ghi lại những vấn đề này một cách rõ ràng trong Jira để tất cả các bên liên quan đều có thể nhìn thấy được.",
+        "Làm việc với các kỹ sư & quản lý dự án để xác định tiêu chí chấp nhận cho các tính năng mới và cải tiến sản phẩm."
       ]
     },
     {
       "id": 7,
-      "name": "Nhân Viên Kinh Doanh Bán Hàng",
+      "name": "QC Engineer (Manual)",
       "companyId": 3,
-      "salary": 100000,
-      "place": "Ha Noi",
-      "type": "part time",
+      "salary": 200000,
+      "place": "Da Nang",
+      "type": "full time",
       "required": [
-        "Kinh nghiem 100 nam",
-        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+        "Hơn 4 năm kinh nghiệm phát triển phần mềm với ít nhất 2 năm trong Node.js",
+        "Bằng cử nhân về Khoa học Máy tính, Hệ thống Thông tin, Lập trình Máy tính, Toán học / Phân tích hoặc lĩnh vực liên quan hoặc kinh nghiệm tương đương.",
+        "Trải nghiệm dịch vụ AWS bằng cách sử dụng: Lambda, Kinesis, API gateway, DynamoDB, IoT Core, Cognito.",
+        "Ngoài ra, kiến ​​thức cơ bản về MQTT, CI / CD (ví dụ như Jenkins) và Git sẽ hữu ích.",
+        "Kỹ năng tự học và nghiên cứu chủ động, hiệu quả.",
+        "Có kinh nghiệm với các bài kiểm tra đơn vị và tích hợp."
       ],
       "description": [
-        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
-        "Tạo Website sử dụng Shopify",
-        "Responsive website.",
-        "Làm việc theo mô hình Lab."
+        "Kiến thức thực tế về lập trình để ra các tiêu chuẩn bảo mật, đặc điểm kỹ thuật thiết kế, kiểm tra sự tuân thủ và duy trì trách nhiệm kỹ thuật trong tất cả các giai đoạn phát triển",
+        "Làm việc với nhiều công nghệ và các bên liên quan, giải đáp vấn đề mà doanh nghiệp đang gặp phải, hình dung dịch vụ người dùng hoàn hảo và đưa ra thiết kế để giải quyết những vấn đề này",
+        "Xác định các phương pháp tiếp cận mới tốt nhất cho tổ chức và chịu trách nhiệm đào tạo các nhà phát triển mới về cách triển khai",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
       ]
     },
     {
       "id": 8,
-      "name": "Nhân Viên Kinh Doanh Bán Hàng",
-      "companyId": 2,
-      "salary": 400000,
-      "place": "Ha Noi",
-      "type": "part time",
+      "name": "Web Developer (HTML, CSS, JavaScript)",
+      "companyId": 3,
+      "salary": 50000,
+      "place": "Da Nang",
+      "type": "full time",
       "required": [
-        "Kinh nghiem 100 nam",
-        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify..",
-        "Có kinh nghiệm làm việc với HTML5, CSS, JavaScript (jQuery…), Shopify.."
+        "Kinh nghiệm phát triển web chuyên nghiệp.",
+        " Có kinh nghiệm về  Ruby, JavaScript, Elixir hoặc Go là lý tưởng (ít nhất một trong số chúng) . Nếu bạn chưa có kinh nghiệm về các ngăn xếp này, bạn phải cởi mở để học hỏi và làm việc với chúng. Nếu bạn đã có kinh nghiệm nâng cao về PHP hoặc Python và muốn nâng cấp trò chơi của mình bằng cách học một hoặc hai ngôn ngữ khác, thì đây là nơi phù hợp cho bạn.",
+        "Thoải mái làm việc cả trên giao diện người dùng và phụ trợ.",
+        "Có ít nhất kinh nghiệm cơ bản với khung JavaScript hiện đại như ReactJS / Redux, VueJS hoặc AngularJS.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
       ],
       "description": [
-        "Dựa trên file design, tài liệu đặc tả để xây dựng web Nhật.",
-        "Tạo Website sử dụng Shopify",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Quyết định công nghệ nào sẽ được sử dụng cho front-end, back-end và xác định kiến ​​trúc tổng thể.",
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Web Developer (HTML, CSS, JavaScript)",
+      "companyId": 3,
+      "salary": 10000,
+      "place": "Ha Noi",
+      "type": "full time",
+      "required": [
+        "Tham gia phát triển các dự án về Web, bảo trì các tính năng hiện có của Web Application.",
+        "Nghiên cứu, tìm hiểu công nghệ mới về HTML/CSS Javascript mới nhất để áp dụng cải tiến sản phẩm.",
+        "Triển khai giao diện HTML/CSS javascript theo yêu cầu của khách hàng.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ],
+      "description": [
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Có kinh nghiệm sử dụng ES6, ES7, ReactJS, Redux, Redux-Saga, CSS Compiler (Scss/Less).",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Quality Control (QC)",
+      "companyId": 3,
+      "salary": 70000,
+      "place": "Ha Noi",
+      "type": "full time",
+      "required": [
+        "Tham gia phát triển các dự án về Web, bảo trì các tính năng hiện có của Web Application.",
+        "Triển khai giao diện HTML/CSS javascript theo yêu cầu của khách hàng.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ],
+      "description": [
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Senior Line Manager",
+      "companyId": 4,
+      "salary": 8000,
+      "place": "Ho Chi Minh",
+      "type": "full time",
+      "required": [
+        "Nền tảng kỹ thuật vững vàng, hiểu biết về công nghệ web cũng như ứng dụng di động",
+        "Kỹ năng giao tiếp tiếng Anh xuất sắc & khả năng ghi lại các vấn đề một cách rõ ràng & tái hiện trong các công cụ quản lý dự án",
+        "Khả năng phân tích các vấn đề một cách chi tiết, giúp các kỹ sư xác định nguyên nhân gốc rễ để giải quyết vấn đề một cách nhanh chóng."
+      ],
+      "description": [
+        "Hiểu các yêu cầu kinh doanh và tiêu chí chấp nhận để thực hiện các bài kiểm tra thủ công nhằm xác minh chất lượng và tính hoàn thiện của các tính năng đang được phân phối.",
+        "Khi các vấn đề về chất lượng được phát hiện, hãy ghi lại những vấn đề này một cách rõ ràng trong Jira để tất cả các bên liên quan đều có thể nhìn thấy được.",
+        "Làm việc với các kỹ sư & quản lý dự án để xác định tiêu chí chấp nhận cho các tính năng mới và cải tiến sản phẩm."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "IT Comtor (build up to BrSE, PL, PM)",
+      "companyId": 3,
+      "salary": 6000,
+      "place": "Ho Chi Minh",
+      "type": "full time",
+      "required": [
+        "Tham gia phát triển các dự án về Web, bảo trì các tính năng hiện có của Web Application.",
+        "Triển khai giao diện HTML/CSS javascript theo yêu cầu của khách hàng.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ],
+      "description": [
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Full-Stack Developer",
+      "companyId": 4,
+      "salary": 10000,
+      "place": "Ho Chi Minh",
+      "type": "full time",
+      "required": [
+        "Tham gia phát triển các dự án về Web, bảo trì các tính năng hiện có của Web Application.",
+        "Nghiên cứu, tìm hiểu công nghệ mới về HTML/CSS Javascript mới nhất để áp dụng cải tiến sản phẩm.",
+        "Triển khai giao diện HTML/CSS javascript theo yêu cầu của khách hàng.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ],
+      "description": [
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Có kinh nghiệm sử dụng ES6, ES7, ReactJS, Redux, Redux-Saga, CSS Compiler (Scss/Less).",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Senior NodeJS Engineer",
+      "companyId": 4,
+      "salary": 60000,
+      "place": "Ho Chi Minh",
+      "type": "part time",
+      "required": [
+        "Bằng cử nhân về Khoa học Máy tính, Hệ thống Thông tin, Lập trình Máy tính, Toán học / Phân tích hoặc lĩnh vực liên quan hoặc kinh nghiệm tương đương.",
+        "Hơn 4 năm kinh nghiệm phát triển phần mềm với ít nhất 2 năm trong Node.js",
+        "Trải nghiệm dịch vụ AWS bằng cách sử dụng: Lambda, Kinesis, API gateway, DynamoDB, IoT Core, Cognito.",
+        "Ngoài ra, kiến ​​thức cơ bản về MQTT, CI / CD (ví dụ như Jenkins) và Git sẽ hữu ích.",
+        "Kỹ năng tự học và nghiên cứu chủ động, hiệu quả.",
+        "Có kinh nghiệm với các bài kiểm tra đơn vị và tích hợp."
+      ],
+      "description": [
+        "Kiến thức thực tế về lập trình để ra các tiêu chuẩn bảo mật, đặc điểm kỹ thuật thiết kế, kiểm tra sự tuân thủ và duy trì trách nhiệm kỹ thuật trong tất cả các giai đoạn phát triển",
+        "Làm việc với nhiều công nghệ và các bên liên quan, giải đáp vấn đề mà doanh nghiệp đang gặp phải, hình dung dịch vụ người dùng hoàn hảo và đưa ra thiết kế để giải quyết những vấn đề này",
+        "Xác định các phương pháp tiếp cận mới tốt nhất cho tổ chức và chịu trách nhiệm đào tạo các nhà phát triển mới về cách triển khai",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Engineering Consultant",
+      "companyId": 5,
+      "salary": 1000,
+      "place": "Ho Chi Minh",
+      "type": "part time",
+      "required": [
+        "Bằng cử nhân về Khoa học Máy tính, Hệ thống Thông tin, Lập trình Máy tính, Toán học / Phân tích hoặc lĩnh vực liên quan hoặc kinh nghiệm tương đương.",
+        "Hơn 4 năm kinh nghiệm phát triển phần mềm với ít nhất 2 năm trong Node.js",
+        "Kỹ năng tự học và nghiên cứu chủ động, hiệu quả.",
+        "Có kinh nghiệm với các bài kiểm tra đơn vị và tích hợp."
+      ],
+      "description": [
+        "Kiến thức thực tế về lập trình để ra các tiêu chuẩn bảo mật, đặc điểm kỹ thuật thiết kế, kiểm tra sự tuân thủ và duy trì trách nhiệm kỹ thuật trong tất cả các giai đoạn phát triển",
+        "Làm việc với nhiều công nghệ và các bên liên quan, giải đáp vấn đề mà doanh nghiệp đang gặp phải, hình dung dịch vụ người dùng hoàn hảo và đưa ra thiết kế để giải quyết những vấn đề này",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Nhà phát triển iOS cao cấp [Từ xa hoặc kết hợp]",
+      "companyId": 5,
+      "salary": 20000,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Cần có kinh nghiệm về Swift. Trải nghiệm React Native là một điểm cộng lớn.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng di động.",
+        "Thích làm việc trên các giải pháp và hệ thống đầy thách thức."
+      ],
+      "description": [
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Quyết định công nghệ nào sẽ được sử dụng và xác định kiến trúc tổng thể.",
         "Responsive website.",
-        "Làm việc theo mô hình Lab."
+        "Bạn sẽ là một thành viên tích cực hoặc lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "[Remote] Full-stack (Android/ReactJS/React Native) ",
+      "companyId": 5,
+      "salary": 5000,
+      "place": "Ho Chi Minh",
+      "type": "full time",
+      "required": [
+        "Tham gia phát triển các dự án về Web, bảo trì các tính năng hiện có của Web Application.",
+        "Nghiên cứu, tìm hiểu công nghệ mới về HTML/CSS Javascript mới nhất để áp dụng cải tiến sản phẩm.",
+        "Triển khai giao diện HTML/CSS javascript theo yêu cầu của khách hàng.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ],
+      "description": [
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "IT Comtor (build up to BrSE, PL, PM)",
+      "companyId": 5,
+      "salary": 6000,
+      "place": "Ho Chi Minh",
+      "type": "full time",
+      "required": [
+        "Tham gia phát triển các dự án về Web, bảo trì các tính năng hiện có của Web Application.",
+        "Triển khai giao diện HTML/CSS javascript theo yêu cầu của khách hàng.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ],
+      "description": [
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Firmware/Embedded Engineer",
+      "companyId": 5,
+      "salary": 6000,
+      "place": "Ho Chi Minh",
+      "type": "full time",
+      "required": [
+        "Tham gia phát triển các dự án về Web, bảo trì các tính năng hiện có của Web Application.",
+        "Triển khai giao diện HTML/CSS javascript theo yêu cầu của khách hàng.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ],
+      "description": [
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Back-end Engineer (PHP Laravel)",
+      "companyId": 6,
+      "salary": 5000,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng di động.",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất.",
+        "Làm việc từ bất kỳ đâu (chênh lệch trong vòng 2 giờ so với GMT + 7) hoặc kết hợp tại một trong các văn phòng của chúng tôi (Đà Nẵng và HCM)."
+      ],
+      "description": [
+        "Bạn sẽ là một thành viên tích cực hoặc lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Phối hợp với các thành viên khác trong nhóm để xác định các quy trình và sáng kiến ​​nội bộ nhằm giúp công ty hoàn thành sứ mệnh của mình. đã được viết bởi cả nhóm.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Mobile Developer (iOS Swift/Flutter)",
+      "companyId": 6,
+      "salary": 3000,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Kinh nghiệm ở Kotlin là điều bắt buộc. Kinh nghiệm trong Flutter là một điểm cộng lớn.  ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất.",
+        "Tự tin giao tiếp tiếng Anh.",
+        "Làm việc từ bất kỳ đâu (chênh lệch trong vòng 2 giờ so với GMT + 7) hoặc kết hợp tại một trong các văn phòng của chúng tôi (Đà Nẵng và HCM)."
+      ],
+      "description": [
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Thực hiện đánh giá mã với các thành viên trong nhóm của bạn.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 22,
+      "name": "QA (quality assurance) Tester",
+      "companyId": 7,
+      "salary": 4000,
+      "place": "Ho Chi Minh",
+      "type": "full time",
+      "required": [
+        "Kinh nghiệm phát triển web chuyên nghiệp .",
+        " Có kinh nghiệm về  Ruby, JavaScript, Elixir hoặc Go là lý tưởng (ít nhất một trong số chúng) . Nếu bạn chưa có kinh nghiệm về các ngăn xếp này, bạn phải cởi mở để học hỏi và làm việc với chúng. Nếu bạn đã có kinh nghiệm nâng cao về PHP hoặc Python và muốn nâng cấp trò chơi của mình bằng cách học một hoặc hai ngôn ngữ khác, thì đây là nơi phù hợp cho bạn.",
+        "Thoải mái làm việc cả trên giao diện người dùng và phụ trợ.",
+        "Có ít nhất kinh nghiệm cơ bản với khung JavaScript hiện đại như ReactJS / Redux, VueJS hoặc AngularJS.",
+        "Có kinh nghiệm viết các bài kiểm tra tự động cho các ứng dụng web. ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ],
+      "description": [
+        "Quyết định công nghệ nào sẽ được sử dụng cho front-end, back-end và xác định kiến ​​trúc tổng thể.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Technical Assistant",
+      "companyId": 7,
+      "salary": 500,
+      "place": "Ho Chi Minh",
+      "type": "full time",
+      "required": [
+        "Thoải mái làm việc cả trên giao diện người dùng và phụ trợ.",
+        "Có ít nhất kinh nghiệm cơ bản với khung JavaScript hiện đại như ReactJS / Redux, VueJS hoặc AngularJS.",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ],
+      "description": [
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Mobile Developer (iOS Swift/Flutter)",
+      "companyId": 8,
+      "salary": 3000,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Kinh nghiệm ở Kotlin là điều bắt buộc. Kinh nghiệm trong Flutter là một điểm cộng lớn.  ",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất.",
+        "Tự tin giao tiếp tiếng Anh.",
+        "Làm việc từ bất kỳ đâu (chênh lệch trong vòng 2 giờ so với GMT + 7) hoặc kết hợp tại một trong các văn phòng của chúng tôi (Đà Nẵng và HCM)."
+      ],
+      "description": [
+        "Chúng tôi là một nhóm các kỹ sư phần mềm, giám đốc sản phẩm và nhà thiết kế đầy nhiệt huyết đang xây dựng các sản phẩm phần mềm web và di động nổi bật cho các công ty khởi nghiệp, mở rộng quy mô và các doanh nghiệp phát triển nhanh trên toàn thế giới.",
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Quyết định công nghệ nào sẽ được sử dụng cho front-end, back-end và xác định kiến ​​trúc tổng thể.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 25,
+      "name": "JAVA BACKEND DEVELOPER",
+      "companyId": 8,
+      "salary": 2000,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Ít nhất 3 năm trở lên trong vai trò Kiểm tra thủ công",
+        "Nền tảng kỹ thuật vững vàng, hiểu biết về công nghệ web cũng như ứng dụng di động",
+        "Có kinh nghiệm kiểm tra E2E, Tích hợp, Kiểm tra đơn vị.",
+        "Kỹ năng giao tiếp tiếng Anh xuất sắc & khả năng ghi lại các vấn đề một cách rõ ràng & tái hiện trong các công cụ quản lý dự án",
+        "Khả năng phân tích các vấn đề một cách chi tiết, giúp các kỹ sư xác định nguyên nhân gốc rễ để giải quyết vấn đề một cách nhanh chóng.",
+        "Có kinh nghiệm kiểm tra API: sử dụng Người đưa thư hoặc Người mất ngủ là một điểm cộng lớn"
+      ],
+      "description": [
+        "Hiểu các yêu cầu kinh doanh và tiêu chí chấp nhận để thực hiện các bài kiểm tra thủ công nhằm xác minh chất lượng và tính hoàn thiện của các tính năng đang được phân phối.",
+        "Giao tiếp hiệu quả với các nhà phát triển & quản lý dự án về các vấn đề chất lượng.",
+        "Khi các vấn đề về chất lượng được phát hiện, hãy ghi lại những vấn đề này một cách rõ ràng trong Jira để tất cả các bên liên quan đều có thể nhìn thấy được.",
+        "Làm việc với các kỹ sư & quản lý dự án để xác định tiêu chí chấp nhận cho các tính năng mới và cải tiến sản phẩm."
+      ]
+    },
+    {
+      "id": 26,
+      "name": "PHP DEVELOPER",
+      "companyId": 8,
+      "salary": 900,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Nền tảng kỹ thuật vững vàng, hiểu biết về công nghệ web cũng như ứng dụng di động",
+        "Có kinh nghiệm kiểm tra E2E, Tích hợp, Kiểm tra đơn vị.",
+        "Kỹ năng giao tiếp tiếng Anh xuất sắc & khả năng ghi lại các vấn đề một cách rõ ràng & tái hiện trong các công cụ quản lý dự án",
+        "Khả năng phân tích các vấn đề một cách chi tiết, giúp các kỹ sư xác định nguyên nhân gốc rễ để giải quyết vấn đề một cách nhanh chóng.",
+        "Có kinh nghiệm kiểm tra API: sử dụng Người đưa thư hoặc Người mất ngủ là một điểm cộng lớn"
+      ],
+      "description": [
+        "Bạn sẽ là một thành viên tích cực  hoặc  lãnh đạo một nhóm các nhà phát triển trong một nhóm dự án. Chúng tôi có nhiều loại quy mô dự án.",
+        "Quyết định công nghệ nào sẽ được sử dụng cho front-end, back-end và xác định kiến ​​trúc tổng thể.",
+        "Tìm hiểu các công nghệ, ngôn ngữ và kỹ thuật mới để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi.",
+        "Viết các bài kiểm tra tự động để xây dựng và duy trì sản phẩm mà chúng tôi xây dựng cho khách hàng của mình.",
+        "Viết mã sạch, có thể tổng hợp và có thể bảo trì khi bạn phát triển các sản phẩm đẳng cấp thế giới cho khách hàng của chúng tôi.",
+        "Tìm hiểu các ngôn ngữ công nghệ mới như Ruby, Go hoặc Elixir và các kỹ thuật để bạn có thể thích ứng với nhu cầu ngày càng tăng của khách hàng của chúng tôi."
+      ]
+    },
+    {
+      "id": 27,
+      "name": "PYTHON DEVELOPER",
+      "companyId": 8,
+      "salary": 4000,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Có kinh nghiệm kiểm tra E2E, Tích hợp, Kiểm tra đơn vị.",
+        "Kỹ năng giao tiếp tiếng Anh xuất sắc & khả năng ghi lại các vấn đề một cách rõ ràng & tái hiện trong các công cụ quản lý dự án",
+        "Khả năng phân tích các vấn đề một cách chi tiết, giúp các kỹ sư xác định nguyên nhân gốc rễ để giải quyết vấn đề một cách nhanh chóng.",
+        "Có kinh nghiệm kiểm tra API: sử dụng Người đưa thư hoặc Người mất ngủ là một điểm cộng lớn"
+      ],
+      "description": [
+        "Hiểu các yêu cầu kinh doanh và tiêu chí chấp nhận để thực hiện các bài kiểm tra thủ công nhằm xác minh chất lượng và tính hoàn thiện của các tính năng đang được phân phối.",
+        "Giao tiếp hiệu quả với các nhà phát triển & quản lý dự án về các vấn đề chất lượng.",
+        "Khi các vấn đề về chất lượng được phát hiện, hãy ghi lại những vấn đề này một cách rõ ràng trong Jira để tất cả các bên liên quan đều có thể nhìn thấy được.",
+        "Làm việc với các kỹ sư & quản lý dự án để xác định tiêu chí chấp nhận cho các tính năng mới và cải tiến sản phẩm."
+      ]
+    },
+    {
+      "id": 28,
+      "name": "URGENT-JavaScript Developer",
+      "companyId": 9,
+      "salary": 2000,
+      "place": "Ha Noi",
+      "type": "full time",
+      "required": [
+        "Bằng cử nhân về Khoa học Máy tính, Hệ thống Thông tin, Lập trình Máy tính, Toán học / Phân tích hoặc lĩnh vực liên quan hoặc kinh nghiệm tương đương.",
+        "Hơn 4 năm kinh nghiệm phát triển phần mềm với ít nhất 2 năm trong Node.js",
+        "Trải nghiệm dịch vụ AWS bằng cách sử dụng: Lambda, Kinesis, API gateway, DynamoDB, IoT Core, Cognito.",
+        "Ngoài ra, kiến ​​thức cơ bản về MQTT, CI / CD (ví dụ như Jenkins) và Git sẽ hữu ích.",
+        "Kỹ năng tự học và nghiên cứu chủ động, hiệu quả.",
+        "Có kinh nghiệm với các bài kiểm tra đơn vị và tích hợp."
+      ],
+      "description": [
+        "Kiến thức thực tế về lập trình để ra các tiêu chuẩn bảo mật, đặc điểm kỹ thuật thiết kế, kiểm tra sự tuân thủ và duy trì trách nhiệm kỹ thuật trong tất cả các giai đoạn phát triển",
+        "Làm việc với nhiều công nghệ và các bên liên quan, giải đáp vấn đề mà doanh nghiệp đang gặp phải, hình dung dịch vụ người dùng hoàn hảo và đưa ra thiết kế để giải quyết những vấn đề này",
+        "Xác định các phương pháp tiếp cận mới tốt nhất cho tổ chức và chịu trách nhiệm đào tạo các nhà phát triển mới về cách triển khai",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ]
+    },
+    {
+      "id": 29,
+      "name": "QC Engineer (Manual)",
+      "companyId": 9,
+      "salary": 7000,
+      "place": "Ha Noi",
+      "type": "full time",
+      "required": [
+        "Hơn 4 năm kinh nghiệm phát triển phần mềm với ít nhất 2 năm trong Node.js",
+        "Trải nghiệm dịch vụ AWS bằng cách sử dụng: Lambda, Kinesis, API gateway, DynamoDB, IoT Core, Cognito.",
+        "Ngoài ra, kiến ​​thức cơ bản về MQTT, CI / CD (ví dụ như Jenkins) và Git sẽ hữu ích.",
+        "Có kinh nghiệm với các bài kiểm tra đơn vị và tích hợp."
+      ],
+      "description": [
+        "Làm việc với nhiều công nghệ và các bên liên quan, giải đáp vấn đề mà doanh nghiệp đang gặp phải, hình dung dịch vụ người dùng hoàn hảo và đưa ra thiết kế để giải quyết những vấn đề này",
+        "Xác định các phương pháp tiếp cận mới tốt nhất cho tổ chức và chịu trách nhiệm đào tạo các nhà phát triển mới về cách triển khai",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
+      ]
+    },
+    {
+      "id": 30,
+      "name": "PHP DEVELOPER  ",
+      "companyId": 9,
+      "salary": 2500,
+      "place": "Da Nang",
+      "type": "full time",
+      "required": [
+        "Ngoài ra, kiến ​​thức cơ bản về MQTT, CI / CD (ví dụ như Jenkins) và Git sẽ hữu ích.",
+        "Kỹ năng tự học và nghiên cứu chủ động, hiệu quả.",
+        "Có kinh nghiệm với các bài kiểm tra đơn vị và tích hợp."
+      ],
+      "description": [
+        "Làm việc với nhiều công nghệ và các bên liên quan, giải đáp vấn đề mà doanh nghiệp đang gặp phải, hình dung dịch vụ người dùng hoàn hảo và đưa ra thiết kế để giải quyết những vấn đề này",
+        "Hãy tin rằng việc xây dựng các ứng dụng tuyệt vời không chỉ là cung cấp mã hoạt động, mà còn liên quan đến việc suy nghĩ về khả năng tái sử dụng, khả năng bảo trì, bảo mật và hiệu suất."
       ]
     }
   ],
   "company": [
     {
       "id": 1,
-      "name": "KMS SoftWare",
-      "address": "101B Le Huu Trac",
-      "phone": "123456789",
-      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
-      "email": "KMS@gamil.com",
-      "avatar": "KMS.png"
+      "name": "Nimble",
+      "address": "Văn phòng Seahorse, Tầng 5, 29 Yên Bái, Hải Châu, Đà Nẵng ",
+      "phone": " (+84) 977 460 519",
+      "aboutUs": "Chúng tôi xây dựng phần mềm vượt trội bằng chuyên môn và niềm đam mê Không có rockstars hoặc nhà phát triển ninja nào ở đây.",
+      "email": "love@itviec.com",
+      "avatar": "Nimble.png"
     },
     {
       "id": 2,
-      "name": "SeaDev",
-      "address": "101B Le Huu Trac",
-      "phone": "123456789",
-      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
-      "email": "SeaDev@gamil.com",
-      "avatar": "Sea_Dev.png"
+      "name": "ORIENT SOFTWARE DEVELOPMENT CORPORATION",
+      "address": "Hello World Saigon 92A Đ. Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+      "phone": " (+84) 983 131 351",
+      "aboutUs": "mgm - Kỹ sư phần mềm tận xương. Chúng tôi viết mã cho 100 khách hàng trong danh sách Fortune 100 và rất vui khi làm như vậy",
+      "email": "sales@orientsoftware.com",
+      "avatar": "ORIENT SOFTWARE DEVELOPMENT CORPORATION.png"
     },
     {
       "id": 3,
-      "name": "RiKai",
-      "address": "101B Le Huu Trac",
-      "phone": "123456789",
-      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
-      "email": "RiKai@gamil.com",
-      "avatar": "Rikai.png"
+      "name": "South Telecom",
+      "address": "ST Group - 136/12 Vườn Chuối, Phường 04, Quận 3, Thành phố Hồ Chí Minh",
+      "phone": "1900 29 29 90",
+      "aboutUs": "CTY TNHH PHẦN MỀM QUẢN LÝ KHÁCH HÀNG VIỆT NAM – tên thương hiệu là OnlineCRM – được thành lập từ 12/2010.",
+      "email": "support@onlinecrm.vn",
+      "avatar": "South Telecom.jpg"
     },
     {
       "id": 4,
-      "name": "ENOUVO",
-      "address": "101B Le Huu Trac",
-      "phone": "123456789",
-      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
-      "email": "ENOUVO@gamil.com",
-      "avatar": "Enouvo.png"
+      "name": "SHIFT ASIA",
+      "address": "130 Sương Nguyệt Anh, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+      "phone": "(+84) 2838223341",
+      "aboutUs": "SHIFT ASIA được thành lập vào tháng 5 năm 2016, kết hợp các điểm mạnh về kỹ thuật của Nhật Bản và nguồn nhân lực năng động của Việt Nam để góp phần thực hiện mong muốn đem chất lượng Nhật Bản vươn ra toàn cầu. ",
+      "email": "csteam@shiftasia.com",
+      "avatar": "SHIFT ASIA.png"
     },
     {
       "id": 5,
-      "name": "PNV",
-      "address": "99 To Hien Thanh ",
-      "phone": "123456789",
-      "aboutUs": "Encotech is a small business, but we provide big-business services with an entrepreneurial spirit. Our human and technical resources are second-to-none. We are on the cutting-edge of the latest technologies and at the forefront of Building Information Modeling (BIM) and sustainable design. We are a boutique engineering firm that strives to be innovative, adaptable, and responsive and exceed our client’s expectations. We view engineering design as a means to transform our communities and the lives of all of us who live here. We are committed to happiness and high standards. Build lasting partnerships to create iconic engineering solutions to shape our world now and in the future.",
-      "email": "PNV@gamil.com",
-      "avatar": "PNV.png"
+      "name": "Wynd Technologies",
+      "address": "Redwood City, California, United States",
+      "phone": "(+84) 2838223341",
+      "aboutUs": "Wynd Technologies develops a portable smart air purifier that monitors and cleans air as needed.",
+      "email": "hi@hellowynd.com",
+      "avatar": "Wynd Technologies.png"
+    },
+    {
+      "id": 6,
+      "name": "VITALIFY ASIA ( Công ty TNHH Vitalify Á Châu)",
+      "address": "224A-224B Dien Bien Phu, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
+      "phone": "(+84) 431293657914",
+      "aboutUs": "WVitalify Asia is a Japan-based technology company specialized in developing product (mobile/web) with partners and AI own product.",
+      "email": "info@masothue.com",
+      "avatar": "VITALIFY ASIA.png"
+    },
+    {
+      "id": 7,
+      "name": "Vani Studio (Vanilacorp)",
+      "address": "Lầu 23, Lim Tower 9-11 Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+      "phone": "(+84) 0317177817",
+      "aboutUs": "Vani Studio is part of Hanwha Group – a top 10 Korean conglomerate and a Global Fortunes 500 company.   ",
+      "email": "contact@topdev.vn",
+      "avatar": "Vani Studio.png"
+    },
+    {
+      "id": 8,
+      "name": "MH Solution",
+      "address": "Tầng 5, Số 71-73 Trần Thái Tông, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+      "phone": "0973 090 393",
+      "aboutUs": "MH Solution là Startup công nghệ cung cấp các giải pháp toàn trình về Dữ liệu, Quảng cáo, Truyền thông và Mạng Xã Hội nội bộ cho doanh nghiệp, tổ chức, cơ quan nhà nước. Chúng tôi hỗ trợ tư vấn chuyển đổi số, mang đến giá trị bền vững cho xã hội thông qua sự hợp tác với các doanh nghiệp trong mọi lĩnh vực. Với đội ngũ nhân sự chủ động, trách nhiệm, nhiều năm kinh nghiệm thực chiến trong những tập đoàn công nghệ lớn, MH Solution hướng tới mục tiêu trở thành TOP 10 tập đoàn công nghệ Việt Nam vào năm 2030. Với yếu tố con người là trung tâm của sự phát triển, chúng tôi tập trung xây dựng một tập thể gắn kết, vững mạnh từ những giá trị cá nhân khác biệt.",
+      "email": "contact@mhsolution.vn",
+      "avatar": "MH Solution.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Geniee Vietnam Co., Ltd.",
+      "address": "Tầng 4, Tòa nhà Ngọc Khánh, Số 1 Phạm Huy Thông, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội",
+      "phone": "+844 3795 4257",
+      "aboutUs": "GENIEE founded in 2010, is a marketing technology company that develops and provides solutions that help companies solve various problems such as increasing profits and improving productivity, based on the mission of creating new value with technology and creating client success together.",
+      "email": "gi_info@geniee.co.jp",
+      "avatar": "Geniee Vietnam Co., Ltd.jpg"
     }
   ],
   "users": [
@@ -221,48 +752,7 @@
       "idJob": 2,
       "userId": 1,
       "phone": "adasdasdasdasdasdasdasdasdas",
-      "id": 9
-    },
-    {
-      "name": "Nguyen Duc Huy",
-      "email": "huynguyen11521@gmail.com",
-      "address": "ádasads",
-      "idJob": 3,
-      "userId": 1,
-      "phone": "ádasadsads",
-      "id": 10
-    },
-    {
-      "name": "Nguyen Duc Huy",
-      "email": "huynguyen11521@gmail.com",
-      "address": "ád",
-      "idJob": 1,
-      "userId": 1,
-      "phone": "ád",
-      "id": 11
-    },
-    {
-      "name": "Nguyen Duc Huy",
-      "email": "huynguyen11521@gmail.com",
-      "address": "asd",
-      "idJob": 6,
-      "userId": 1,
-      "phone": "asdasd",
-      "id": 12
-    },
-    {
-      "name": "Nguyen Duc Huy",
-      "email": "huynguyen11521@gmail.com",
-      "id": 14
-    },
-    {
-      "name": "Nguyen Duc Huy",
-      "email": "huynguyen11521@gmail.com",
-      "address": "aa",
-      "idJob": 2,
-      "userId": 1,
-      "phone": "sss",
-      "id": 15
+      "id": 1
     }
   ]
 }

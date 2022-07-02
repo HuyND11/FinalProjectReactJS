@@ -12,7 +12,6 @@ const Company = ({data}) => {
             </div>
             <div className="company--info">
                 <p className="company--name">{data.name}</p>
-                <p className="company--field">Information Technology</p>
                 <p className="company--address">{data.address}</p>
                 <Link to={`/company/${data.id}`} className = "company--link">See more <FaArrowRight/> </Link>
             </div>
